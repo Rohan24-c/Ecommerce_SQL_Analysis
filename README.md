@@ -1,1 +1,0 @@
-# Ecommerce_SQL_Analysis
